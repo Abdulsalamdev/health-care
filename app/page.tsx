@@ -31,7 +31,7 @@ export default function Home() {
         alt=""
         height={1000}
         width={1000}
-        className="side-img max-w-[50%]"
+        className="side-img max-w-[50%] h-[!00%]"
       />
     </main>
   );
